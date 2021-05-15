@@ -1,6 +1,6 @@
 # S4-adm-assignment
 
-1. Clone the repository at https://github.com/Grinnell-CSC195/hw1.
+1. Clone the repository at https://github.com/minureghunath/S4-adm-assignment
 
 2. Add a file to the participants directory that describes you.
 

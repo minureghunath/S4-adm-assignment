@@ -19,3 +19,5 @@
 9. Edit the file participants.md to add your name. Then add the file, commit it, and push it.
 
 10. Whoever tries to push the file first will likely succeed. Whoever tries to push the file second will likely get an error message. Figure out how to resolve the error message.
+
+NB: Please inform me if anyone is not participating in this assignment so that I can ensure everyone has a friend.

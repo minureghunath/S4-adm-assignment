@@ -1,20 +1,20 @@
 # S4-adm-assignment
-Goutham
-Gopu
-Reshma
-Alfiya
-Aliyas
-Nivedha
-Nikhil
-Saranya
-Anjali Nambrath
-Abhijith 
-Sarath
-GauriAjay
-Gourilakshmi
-Vince Joseph
-Varun M
-A J Anand
-Ahammed Fayas T L
-Anjali Anna Peter
-Fejina Teresa A F
+- Goutham
+- Gopu
+- Reshma
+- Alfiya
+- Aliyas
+- Nivedha
+- Nikhil
+- Saranya
+- Anjali Nambrath
+- Abhijith 
+- Sarath
+- GauriAjay
+- Gourilakshmi
+- Vince Joseph
+- Varun M
+- A J Anand
+- Ahammed Fayas T L
+- Anjali Anna Peter
+- Fejina Teresa A F

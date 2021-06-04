@@ -21,6 +21,7 @@
 -Amritha M L
 - U A Ganesh
 - Abhirami C S
+- Adarsh Anand
 -Fathima Nejiya
 -Swathy
 -Amal Shoji

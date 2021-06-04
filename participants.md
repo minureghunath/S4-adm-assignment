@@ -19,4 +19,8 @@
 - Anjali Anna Peter
 - Fejina Teresa A F
 -Amritha M L
+<<<<<<< HEAD
 .Swathy
+=======
+Amal Shoji
+>>>>>>> 2093c28c29bff3dc238c45a5aaf9b39833421265

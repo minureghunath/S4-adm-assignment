@@ -18,3 +18,10 @@
 - Ahammed Fayas T L
 - Anjali Anna Peter
 - Fejina Teresa A F
+-Amritha M L
+- U A Ganesh
+- Abhirami C S
+- Adarsh Anand
+-Fathima Nejiya
+-Swathy
+-Amal Shoji

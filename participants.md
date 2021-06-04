@@ -19,6 +19,7 @@
 - Anjali Anna Peter
 - Fejina Teresa A F
 -Amritha M L
+- U A Ganesh
 <<<<<<< HEAD
 -Fathima Nejiya
 =======

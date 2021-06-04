@@ -25,8 +25,5 @@
 -Fathima Nejiya
 -Swathy
 -Amal Shoji
-<<<<<<< HEAD
--Sangeeth
-=======
+- Sangeeth
 - Sandeep
->>>>>>> 2c2c1305ff196f04b37fdf28370e41571be6b688

@@ -27,17 +27,6 @@
 - Amal Shoji
 - Sangeeth
 - Sandeep
-<<<<<<< HEAD
--Sreeshma
--Sreelekshmi R
--Anusha Raj
--linesh p v
--Laya Mary Joy
--Anju V H
--Adithya Remanan
-  Divya Mariyam Eldo
-  
-
 - Sreeshma
 - Sreelekshmi R
 - Anusha Raj
@@ -47,5 +36,7 @@
 - Adithya Remanan
 - Dona Maria
 - Bismi fathim N
+Divya Mariyam Eldo
+  
 
 

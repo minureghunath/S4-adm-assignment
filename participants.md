@@ -18,15 +18,16 @@
 - Ahammed Fayas T L
 - Anjali Anna Peter
 - Fejina Teresa A F
--Amritha M L
+- Amritha M L
 - U A Ganesh
 - Abhirami C S
 - Adarsh Anand
--Fathima Nejiya
--Swathy
--Amal Shoji
+- Fathima Nejiya
+- Swathy
+- Amal Shoji
 - Sangeeth
 - Sandeep
+<<<<<<< HEAD
 -Sreeshma
 -Sreelekshmi R
 -Anusha Raj
@@ -36,3 +37,15 @@
 -Adithya Remanan
   Divya Mariyam Eldo
   
+
+- Sreeshma
+- Sreelekshmi R
+- Anusha Raj
+- linesh p v
+- Laya Mary Joy
+- Anju V H
+- Adithya Remanan
+- Dona Maria
+- Bismi fathim N
+
+

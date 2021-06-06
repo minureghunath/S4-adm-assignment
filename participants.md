@@ -18,8 +18,9 @@
 - Ahammed Fayas T L
 - Anjali Anna Peter
 - Fejina Teresa A F
--Amritha M L
+- Amritha M L
 - U A Ganesh
+<<<<<<< HEAD
 - Sabira Nazar
 <<<<<<< HEAD
 -Fathima Nejiya
@@ -33,3 +34,34 @@ Amal Shoji
 
 
 
+=======
+- Abhirami C S
+- Adarsh Anand
+- Fathima Nejiya
+- Swathy
+- Amal Shoji
+- Sangeeth
+- Sandeep
+- Sreeshma
+- Sreelekshmi R
+- Anusha Raj
+- linesh p v
+- Laya Mary Joy
+- Anju V H
+- Adithya Remanan
+- Dona Maria
+- Bismi fathim N
+- Divya Mariyam Eldo
+- Ayana Sasi
+- Shameer M R
+- Adarsh M L
+- Sreeju L
+- Sreelakshmi Sathyan
+- Abdulla Murshid K V
+- Amrutha M s
+- Arun Baby
+- fazeela
+- Anand Mohan
+- Sachin
+- Athul
+>>>>>>> 1562a4bd4ca45efa5dc03aaa67ca0450f418bd63
